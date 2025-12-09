@@ -2,8 +2,8 @@
 
 Hi, I'm Pony, a passionate self-taught Software developer 👋🏼
 
-- 💝 I'm a decentralized believer, not a believer in cryptocurrency.
-- 🔭 Currently my main job GameFi. 📊 focused on quant trading strategy research.
+- 💝 I'm a decentralized believer, and I love building with crypto.
+- 🔭 Currently my main job GameFi. focused on quant trading strategy research.
 - 🌱 I’m currently learning Algorithm design and Blockchain related knowledge.
 - 📫 How to reach me: Please create issues and try to write your intentions.
 
